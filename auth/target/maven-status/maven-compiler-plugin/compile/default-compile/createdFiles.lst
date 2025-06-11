@@ -1,0 +1,6 @@
+com\example\authapp\service\AuthService.class
+com\example\authapp\MainApplication.class
+com\example\authapp\config\WebSecurityConfig.class
+com\example\authapp\repository\UserRepository.class
+com\example\authapp\controller\AuthController.class
+com\example\authapp\model\User.class
